@@ -1,4 +1,3 @@
-// Function to sum up to n using a loop
 /*
 Simple Summation Function: 
     This function uses a simple loop to iterate from 1 to n, adding each number to a sum variable.
@@ -13,7 +12,6 @@ function simpleSummation (n) {
     return sum
 }
 
-// Function to sum up to n recursively
 /*
 Recursive Summation Function: 
     This function utilizes recursion to solve the problem.
@@ -28,7 +26,6 @@ function recursiveSummation (n) {
     }
 }
 
-// Function to sum up to n using the formula for arithmetic series
 /*
 Mathematical Formula Implementation: 
     This function directly applies the formula for the sum of an arithmetic series, which is n*(n+1)/2.
